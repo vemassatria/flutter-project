@@ -21,6 +21,8 @@ class HomePage extends StatelessWidget {
                     "Mari Belajar Flutter\n TINGKATKAN SKILL",
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
                   ),
+                  Image.asset('images/oke.png', width: 100),
+                  
                   // teks buku
                   const Padding(
                     padding: EdgeInsets.symmetric(vertical: 10.0),
