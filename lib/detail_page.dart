@@ -41,7 +41,7 @@ class DetailPage extends StatelessWidget {
               ),
             ),
           ),
-          // Info Buku
+          // Info Bukuu
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
