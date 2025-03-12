@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
                     "Mari Belajar Flutter\nTINGKATKAN SKILL",
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
                   ),
-                  Image.asset('images/oke.png', width: 100),
+                  Image.asset('images/home.png', width: 100),
                 ],
               ),
 
